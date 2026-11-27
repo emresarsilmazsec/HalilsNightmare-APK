@@ -1,0 +1,122 @@
+SES DOSYALARI — bu klasöre koy
+
+Her replik için dosya adı = ID + .mp3  (örnek: H01.mp3)
+Dosya yoksa oyun o repliği sadece altyazıyla gösterir.
+Tek bir uzun kayıt da gönderebilirsin: replikleri bu sırayla, aralarında 2 saniye sessizlikle oku.
+
+
+== HALİL ==
+H01.mp3  —  Halil'im... Bu mektubu okuyorsan ben artık yokum.
+H02.mp3  —  Sen doğduktan sonraki ilk zemheride, babanın adını biri kapının önünden çağırdı. Sesi annenin sesiydi.
+H03.mp3  —  Baban kapıyı açtı... Bir daha dönmedi.
+H04.mp3  —  O şeye köyde Karakoncolos derler. Zemheri gecelerinde dolaşır, sevdiklerinin sesiyle çağırır, kapıyı açanı alır.
+H05.mp3  —  Onu yirmi yıl, ocağın ateşiyle ve bir sözle bağladım. Ama ateş bensiz uzun yanmaz.
+H06.mp3  —  Köye dön. Ocağı yeniden yak. Sözü bul... Ve ne duyarsan duy, o kapıyı açma.
+H07.mp3  —  Deden... Şakir Aksu.
+H08.mp3  —  Yirmi yıl... Dedem bunu neden şimdi okumamı istedi ki?
+H09.mp3  —  Sarıkamış'tayım Furkan. Köydeyim... yani köye yürüyorum.
+H10.mp3  —  Dedemin mektubu... Gelmem lazımdı. Sonra anlatırım.
+H11.mp3  —  Furkan? Alo?... Kesildi.
+H12.mp3  —  Köpekler bile susmuş... Sadece rüzgâr.
+H13.mp3  —  Orada biri mi vardı?!
+H14.mp3  —  Bu izler... benim değil. Yanımda biri yürüyor gibi.
+H15.mp3  —  Koçoğlu... Yirmi yıl olmuş.
+H16.mp3  —  Dedemin evi. Her şey bıraktığı gibi... Burası buz gibi.
+H17.mp3  —  Göz gözü görmüyor. Mutfakta kibrit olmalı.
+H18.mp3  —  Kibrit. Islanmamış, şükür.
+H19.mp3  —  Biraz ışık... Dedemin kokusu hâlâ burada.
+H20.mp3  —  Ocak üç şeyle yanar... Kuru odun, kav ve söz.
+H21.mp3  —  Oduncu Rıza'nın kulübesi... Kuzeydeki orman. Bu gece mi?
+H22.mp3  —  Arkamda... Hayır. Yorgunum sadece. Yorgunum.
+H23.mp3  —  Furkan? Sen İstanbul'daydın... Nasıl geldin buraya?
+H24.mp3  —  Furkan?... Kimse yok. Bu ayak izleri... İnsan izi değil bunlar.
+H25.mp3  —  Sen Furkan değilsin... Sen Furkan değilsin!
+H26.mp3  —  Odunu ve kavı almam lazım. Ormana gideceğim... Allah'ım, ne yapıyorum ben.
+H27.mp3  —  Dedem bu ormanı ezbere bilirdi. Ben ise hiçbir şey göremiyorum.
+H28.mp3  —  Kim var orada?!
+H29.mp3  —  O neydi... O kadar büyük bir şey olamaz.
+H30.mp3  —  Rıza'nın kulübesi. Kapısı açık...
+H31.mp3  —  Kuru odun. Dedem gerçekten hazırlamış.
+H32.mp3  —  Kav mantarı... Ateşi bununla tutuşturacağım.
+H33.mp3  —  Dedemin sandığı. İçinde bir muska... ve bir not.
+H34.mp3  —  Cevap verme... Adını söylerse dönme.
+H35.mp3  —  Nefes alma... Nefes alma...
+H36.mp3  —  Gitti mi... Köye dönmeliyim. Hemen.
+H37.mp3  —  Furkan... Sen biraz önce aradın. Kapıdaydın...
+H38.mp3  —  O zaman... kapıdaki kimdi?
+H39.mp3  —  Dedemin mezarına gidiyorum. Sonra her şeyi anlatacağım. Söz.
+H40.mp3  —  Mezarlık... Dedem burada yatıyor.
+H41.mp3  —  Söz kuyudadır... İpi çek, sesine dönme.
+H42.mp3  —  Emirhan?... Hayır. Burada olamaz. Dönme Halil.
+H43.mp3  —  Kovada bir şey var... Bir saat... ve bir kâğıt.
+H44.mp3  —  Zemheri biter, ocak sönmez. Adım bende, kapım kapalı.
+H45.mp3  —  Kapı... kilitle... kilitle!
+H46.mp3  —  Ocağı yakmalıyım. Şimdi.
+H47.mp3  —  Odun...
+H48.mp3  —  Kav...
+H49.mp3  —  Yan... Hadi yan...
+H50.mp3  —  Zemheri biter, ocak sönmez! Adım bende, kapım kapalı!
+H51.mp3  —  Emirhan...?
+H52.mp3  —  Sen Emirhan değilsin. Onun sesini bana karşı kullanamazsın!
+H53.mp3  —  İyiyim Furkan. Sabah oldu... Kar durdu.
+H54.mp3  —  Bir kapıyı açmadım. Hepsi bu.
+H55.mp3  —  Ocak sönmesin Halil'im. Ateş, bizim hatıramızdır.
+H56.mp3  —  Emirhan... geldin mi?
+H57.mp3  —  Furkan... Emirhan'dan haber var mı?
+H58.mp3  —  Onu ara Furkan. Yazın üçümüz buraya gelelim.
+H59.mp3  —  Kolu yok... Kuyunun kolu sökülmüş.
+H60.mp3  —  Dedem okulun bekçisiydi. Aletlerini hep okulda saklardı.
+H61.mp3  —  Koçoğlu İlkokulu... Emirhan'la burada tanışmıştık.
+H62.mp3  —  Bu fotoğrafı buraya kim astı?
+H63.mp3  —  Kuyunun kolu! Dedem buraya saklamış.
+H64.mp3  —  Zil mi çaldı? Burada kimse yok...
+H65.mp3  —  Tahtada... benim adım yazıyor.
+HW01.mp3  —  Furkan... aşağıdayım... gel.
+
+
+== FURKAN BAŞKAYA ==
+F01.mp3  —  Halil! Ulan neredesin, iki gündür ulaşamıyorum sana!
+F02.mp3  —  Bu saatte mi? Kar fırtınası var diyorlar, kafayı mı yedin?
+F03.mp3  —  Tamam ama telefonun açık kalsın. Sesin gidip geliyor zaten...
+F04.mp3  —  Halil! Abi sonunda! Telefonun hiç çekmiyordu.
+F05.mp3  —  Ne kapısı? Ben İstanbul'dayım oğlum, yurttan çıkmadım bile!
+F06.mp3  —  Halil, beni korkutuyorsun. Ne oluyor orada?
+F07.mp3  —  Halil? Halil, sesin... Halil!
+F08.mp3  —  Halil? Halil, iyi misin? Gece boyunca aradım!
+F09.mp3  —  Ne oldu orada?
+F10.mp3  —  Halil? Halil açsana... Halil?
+F11.mp3  —  Emirhan mı? Yıllardır kimse konuşmadı onunla, biliyorsun. Niye şimdi sordun?
+F12.mp3  —  Bir şey daha... Dün gece Emirhan aradı. Seni sordu.
+FS01.mp3  —  Halil... Halil, ben geldim. Kapıdayım. Aç kapıyı, donuyorum.
+FS02.mp3  —  Aç kapıyı Halil. Aç. Aç. AÇ.
+
+
+== EMİRHAN KALELİ (Karakoncolos taklidi) ==
+E01.mp3  —  Halil... Benim... Emirhan...
+E02.mp3  —  Aşağıdayım Halil. Seni aramaya geldim, düştüm... Çek beni.
+E03.mp3  —  Halil, aç... Benim, Emirhan. Kaç yıl oldu kardeşim... Çok üşüdüm.
+E04.mp3  —  Yollarımız ayrıldığından beri seni arıyorum. Bir kere sarılayım sana.
+E05.mp3  —  Halil... sıranı hatırlıyor musun?
+
+
+== KARAKONCOLOS ==
+K01.mp3  —  Haliiil...
+K02.mp3  —  Şakir'in torunu... Ocağı yakmaya mı geldin?
+K03.mp3  —  Yirmi yıl bekledim. Yirmi zemheri.
+K04.mp3  —  Kaçma Halil! Baban da kaçtı... Bak şimdi nerede!
+K05.mp3  —  Soğuk, değil mi? Bende sıcacık bir yer var.
+K06.mp3  —  Adını biliyorum... HALİL!
+K07.mp3  —  Dedenin ateşi söndü. Sıra sende.
+K08.mp3  —  Buradasın... Kokunu alıyorum...
+K09.mp3  —  Nefes alıyorsun Halil... Duyuyorum.
+K10.mp3  —  Buldum seni.
+K11.mp3  —  SÖZÜ BENDEN Mİ ÇALDIN?!
+K12.mp3  —  Eve kaçman seni kurtarmaz!
+K13.mp3  —  Ateşin beni durduramaz!
+K14.mp3  —  HAYIIIR!
+K15.mp3  —  Hoş geldin, Halil.
+K16.mp3  —  Teneffüs bitti, Halil.
+
+
+== EFEKTLER ==
+sfx/ klasöründeki sesler senin gönderdiğin "Scary Sound FX" paketinden seçildi; oyun bunları kendisi çalar.
